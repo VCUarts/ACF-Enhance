@@ -1,0 +1,34 @@
+/**
+ * Fields group handles
+ */
+.acf-fc-layout-handle {
+	background: #0074A2;
+  color: #FFF !important;
+}
+.acf-table .acf-fc-layout-handle {
+  background: #FFF;
+  color: #333 !important;
+}
+
+.acf-input-table > tbody > tr > td.acf-fields {
+  background: #F1F1F1;
+}
+.acf-input-table > tbody > tr > td.acf-fields td.acf-fields {
+  background: #FFF;
+}
+
+.acf-fc-layout-controlls .acf-fc-add {
+  display: none;
+}
+.acf-fc-layout-controlls .acf-fc-remove {
+
+}
+.acf-fc-layout-controlls .acf-fc-remove i {
+  display: none;
+}
+.acf-fc-layout-controlls .acf-fc-remove:before {
+  content: "\f335";
+  font: normal 18px/1 'dashicons';
+  -webkit-font-smoothing: antialiased;
+  color: #D54E21;
+}
