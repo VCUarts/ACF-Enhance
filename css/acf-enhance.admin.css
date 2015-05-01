@@ -2,7 +2,7 @@
  * Fields group handles
  */
 .acf-fc-layout-handle {
-	background: #0074A2;
+  background: #0074A2;
   color: #FFF !important;
 }
 .acf-table .acf-fc-layout-handle {
@@ -31,4 +31,64 @@
   font: normal 18px/1 'dashicons';
   -webkit-font-smoothing: antialiased;
   color: #D54E21;
+}
+
+
+/**
+ * Hiding stuff for ppl
+ */
+
+
+/*  benson */
+.role-subscriber #acf-group_55099a4fecd7b,
+.role-contributor #acf-group_55099a4fecd7b,
+.role-author #acf-group_55099a4fecd7b,
+.role-editor #acf-group_55099a4fecd7b
+{
+  display:none;
+}
+
+/* show customization options */
+.role-subscriber .acf-field-551d7e5b9d452,
+.role-contributor .acf-field-551d7e5b9d452,
+.role-author .acf-field-551d7e5b9d452,
+.role-editor .acf-field-551d7e5b9d452
+{
+  display:none;
+}
+
+/* block option presets */
+.role-subscriber .acf-field-55254fb4bc970,
+.role-contributor .acf-field-55254fb4bc970,
+.role-author .acf-field-55254fb4bc970,
+.role-editor .acf-field-55254fb4bc970
+{
+  display:none;
+}
+
+/* block classes */
+.role-subscriber .acf-field-552583fb2db66,
+.role-contributor .acf-field-552583fb2db66,
+.role-author .acf-field-552583fb2db66,
+.role-editor .acf-field-552583fb2db66
+{
+  display:none;
+}
+
+/* bg image */
+.role-subscriber .acf-field-551e9687e957c,
+.role-contributor .acf-field-551e9687e957c,
+.role-author .acf-field-551e9687e957c,
+.role-editor .acf-field-551e9687e957c
+{
+  display:none;
+}
+
+/* bg image classes */
+.role-subscriber .acf-field-5525843a2db67,
+.role-contributor .acf-field-5525843a2db67,
+.role-author .acf-field-5525843a2db67,
+.role-editor .acf-field-5525843a2db67
+{
+  display:none;
 }
