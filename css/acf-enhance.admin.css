@@ -92,3 +92,30 @@
 {
   display:none;
 }
+
+/* slider classes */
+.role-subscriber .acf-field-5542501829fa5,
+.role-contributor .acf-field-5542501829fa5,
+.role-author .acf-field-5542501829fa5,
+.role-editor .acf-field-5542501829fa5
+{
+  display:none;
+}
+
+/* block link simple classes */
+.role-subscriber .acf-field-55281352de892,
+.role-contributor .acf-field-55281352de892,
+.role-author .acf-field-55281352de892,
+.role-editor .acf-field-55281352de892
+{
+  display:none;
+}
+
+/* block link deluxe classes */
+.role-subscriber .acf-field-55281389de893,
+.role-contributor .acf-field-55281389de893,
+.role-author .acf-field-55281389de893,
+.role-editor .acf-field-55281389de893
+{
+  display:none;
+}
