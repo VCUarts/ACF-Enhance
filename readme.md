@@ -1,6 +1,6 @@
-# VCUarts ACF Enhance
+# ACF Enhance
 
-A simple plugin for cleaning up [Advanced Custom Fields](http://www.advancedcustomfields.com). Mostly related to how ACF is being used on the VCUarts site.
+## on hold
 
 ## Features
 + Improved coloring of ACF layout panels
