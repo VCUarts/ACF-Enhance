@@ -1,6 +1,4 @@
-# ACF Enhance
-
-## on hold
+# ACF Enhance - On hold currently and mostly useless
 
 ## Features
 + Improved coloring of ACF layout panels
